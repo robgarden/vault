@@ -1,3 +1,3 @@
-export default function get(_req, res) {
-  res.send(new Date());
+export function get(_req, res) {
+  res.end(new Date().toString());
 }
