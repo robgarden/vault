@@ -14,7 +14,7 @@
     "sirv": "^1.0.0"
   },
   "devDependencies": {
-    "sapper": "^0.28.0",
+    "sapper": "^0.28.10",
     "svelte": "^3.17.3",
     "@babel/core": "^7.0.0",
     "@babel/plugin-syntax-dynamic-import": "^7.0.0",
